@@ -48,7 +48,7 @@ def pega_centro(x, y, w, h):
 
 # video source input
 
-cap = cv2.VideoCapture('video.mp4')
+cap = cv2.VideoCapture('video_de_pfe.mp4')
 
 
 subtracao = cv2.createBackgroundSubtractorMOG2()
